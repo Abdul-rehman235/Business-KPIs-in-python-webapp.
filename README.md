@@ -1,2 +1,17 @@
-# Business-KPIs-in-python-webapp.
-This Business Intelligence Dashboard provides real-time insights into key performance indicators (KPIs) such as revenue, orders, customer growth, and performance trends. It helps businesses make data-driven decisions using interactive charts and automated analytics powered by Python.
+# Business KPIs in Python Web App
+
+A Flask-based Business Intelligence Dashboard that tracks:
+
+- Total Revenue
+- Total Orders
+- Customer Growth
+- Revenue Trends
+- KPI Analytics
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/Business-KPIs-in-python-webapp.git
+cd Business-KPIs-in-python-webapp
+pip install -r requirements.txt
+python app.py
